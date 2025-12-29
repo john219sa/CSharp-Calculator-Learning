@@ -1,0 +1,16 @@
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\bin\Debug\net10.0-windows\mathematicalOperation.exe
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\bin\Debug\net10.0-windows\mathematicalOperation.deps.json
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\bin\Debug\net10.0-windows\mathematicalOperation.runtimeconfig.json
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\bin\Debug\net10.0-windows\mathematicalOperation.dll
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\bin\Debug\net10.0-windows\mathematicalOperation.pdb
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.Form1.resources
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.csproj.GenerateResource.cache
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.AssemblyInfoInputs.cache
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.AssemblyInfo.cs
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.csproj.CoreCompileInputs.cache
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.dll
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\refint\mathematicalOperation.dll
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.pdb
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\mathematicalOperation.genruntimeconfig.cache
+H:\C#\project\pro1\mathematicalOperation\mathematicalOperation\obj\Debug\net10.0-windows\ref\mathematicalOperation.dll
