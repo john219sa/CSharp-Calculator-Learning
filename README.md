@@ -32,5 +32,8 @@ The calculator performs basic mathematical operations between two numbers.
 4. The result will appear in the result field.
 
 ---
+## Improvements
+- Added try-catch to handle invalid user input safely.
+
 
 
